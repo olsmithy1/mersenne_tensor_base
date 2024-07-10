@@ -90,6 +90,7 @@ Multi-dimensional data compression and reconstruction.
 
 
 Matrix Multiplication:
+
 Capabale of finding lower rank Matrix Multiplication algorithims.
 
 Artificial Intelligence:
