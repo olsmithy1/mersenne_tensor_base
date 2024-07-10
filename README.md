@@ -89,6 +89,9 @@ Advanced audio or image processing techniques.
 Multi-dimensional data compression and reconstruction.
 
 
+Matrix Multiplication:
+Capabale of finding lower rank Matrix Multiplication algorithims.
+
 Artificial Intelligence:
 
 Representing complex knowledge graphs or semantic networks.
