@@ -2,14 +2,14 @@
 
 The base structure of MTensor a Multi-Dimensional Quantum-Inspired Tensor Framework
 
-MTensor: Multi-Dimensional Quantum-Inspired Tensor Framework
+# MTensor: Multi-Dimensional Quantum-Inspired Tensor Framework
 
-Overview
+# Overview
 
 MTensor is an advanced, multi-dimensional tensor framework designed for complex data representation and manipulation. 
 It combines concepts from quantum computing, fractal geometry, and advanced mathematics to create a versatile tool for various cutting-edge applications.
 
-Key Features:
+# Key Features:
 
 5-Dimensional Structure: Default shape of (2, 4, 4, 4, 4), allowing for rich, multi-layered data representation.
 
@@ -32,7 +32,7 @@ Fourier Domain Operations: Enables frequency-domain analysis and manipulation.
 Dimensionality Reduction: Built-in methods for reducing high-dimensional data to lower dimensions.
 
 
-Unique Characteristics:
+# Unique Characteristics:
 
 Quantum-Classical Hybrid: Blends classical tensor operations with quantum-inspired concepts.
 
@@ -44,14 +44,15 @@ Complex Information Encoding: Uses both magnitude and phase for richer data repr
 
 Flexible Dimensionality: Can work across multiple dimensions, from 3D to 5D and potentially beyond.
 
-Layman's Explanation of Uniqueness
+
+# Layman's Explanation of Uniqueness
 
 Imagine a super-advanced Rubik's Cube. Now, instead of just colors, each square on the cube contains a tiny universe of information. This cube can twist and turn in ways that a normal Rubik's Cube can't – it can even absorb information from other cubes or evolve over time. It's like if you combined a Rubik's Cube with a crystal ball, a supercomputer, and a little bit of magic. That's what makes MTensor unique!
 
 It's a way to represent and manipulate incredibly complex information in a structure that can adapt, evolve, and perform operations inspired by some of the most advanced concepts in physics and mathematics.
 Whilst also simplyfiying the way in which we can reason about, what it is that the tensor is doing.
 
-Potential Applications...
+# Potential Applications
 
 Quantum Algorithm Simulation:
 
@@ -117,28 +118,7 @@ Cognitive Science Research:
 Modeling complex cognitive processes and brain functions.
 Representing and analyzing multi-modal sensory information.
 
-
-Getting Started
-
-from mtensor import MTensor
-
-# Create a new MTensor
-tensor = MTensor(shape=(2, 4, 4, 4, 4), seed=42)
-
-# Optimize the rank
-best_rank, _ = tensor.optimize_rank()
-
-# Perform quantum-inspired operation
-quantum_result = tensor.quantum_inspired_operation()
-
-# Evolve the tensor
-tensor.evolve_tensor(steps=5)
-
-# Visualize
-print(tensor.ascii_view())
-
-
-Technical Specifications
+# Technical Specifications
 
 Dimensions: 5 (customizable)
 Default Shape: (2, 4, 4, 4, 4)
@@ -146,7 +126,8 @@ Data Type: Complex128
 Rank: Adaptive (optimizable, typically 8-64)
 Operations: Quantum-inspired, Fourier transforms, tensor decomposition, fusion, evolution
 
-Initial MTensor Information:
+# Initial MTensor Information:
+
 MTensor Summary:
 Shape: (2, 4, 4, 4, 4)
 Seed: 42
