@@ -31,7 +31,8 @@ Fourier Domain Operations: Enables frequency-domain analysis and manipulation.
 
 Dimensionality Reduction: Built-in methods for reducing high-dimensional data to lower dimensions.
 
-Unique Characteristics
+
+Unique Characteristics:
 
 Quantum-Classical Hybrid: Blends classical tensor operations with quantum-inspired concepts.
 
