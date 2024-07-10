@@ -126,7 +126,7 @@ Data Type: Complex128
 Rank: Adaptive (optimizable, typically 8-64)
 Operations: Quantum-inspired, Fourier transforms, tensor decomposition, fusion, evolution
 
-# Initial MTensor Information:
+# Example Initial MTensor Information:
 
 MTensor Summary:
 Shape: (2, 4, 4, 4, 4)
