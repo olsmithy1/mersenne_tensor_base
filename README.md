@@ -2,7 +2,7 @@
 
 Base structure of MTensor
 
-# MTensor: Multi-Dimensional Quantum-Inspired Tensor Framework
+# MTensor: Multi-Dimensional Quantum-Inspired Tensor with Fractal Properties
 
 # Overview
 
