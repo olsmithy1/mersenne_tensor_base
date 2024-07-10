@@ -91,7 +91,8 @@ Multi-dimensional data compression and reconstruction.
 
 Matrix Multiplication:
 
-Capabale of finding lower rank Matrix Multiplication algorithims.
+Capabale of finding lower dimensional Matrix Multiplication algorithims.
+It may even incorporate elements of that it needs into it's own structure.
 
 Artificial Intelligence:
 
