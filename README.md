@@ -51,7 +51,7 @@ Imagine a super-advanced Rubik's Cube. Now, instead of just colors, each square 
 It's a way to represent and manipulate incredibly complex information in a structure that can adapt, evolve, and perform operations inspired by some of the most advanced concepts in physics and mathematics.
 Whilst also simplyfiying the way in which we can reason about, what it is that the tensor is doing.
 
-Potential Applications
+Potential Applications...
 
 Quantum Algorithm Simulation:
 
