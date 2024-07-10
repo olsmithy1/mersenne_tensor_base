@@ -1,6 +1,6 @@
 # mtensor_base
 
-The base structure of MTensor a Multi-Dimensional Quantum-Inspired Tensor Framework
+Base structure of MTensor
 
 # MTensor: Multi-Dimensional Quantum-Inspired Tensor Framework
 
