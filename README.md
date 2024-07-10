@@ -9,17 +9,26 @@ Overview
 MTensor is an advanced, multi-dimensional tensor framework designed for complex data representation and manipulation. 
 It combines concepts from quantum computing, fractal geometry, and advanced mathematics to create a versatile tool for various cutting-edge applications.
 
-Key Features
+Key Features:
 
 5-Dimensional Structure: Default shape of (2, 4, 4, 4, 4), allowing for rich, multi-layered data representation.
+
 Complex Number Representation: Uses complex numbers for each element, enabling phase and magnitude information storage.
+
 Quantum-Inspired Operations: Incorporates quantum computing concepts for unique data transformations.
+
 Adaptive Rank Optimization: Automatically finds the optimal rank for tensor decomposition.
+
 Fractal Components: Integrates fractal-like behavior for self-similarity across scales.
+
 Tensor Fusion and Absorption: Ability to combine and absorb information from other tensors.
+
 Evolutionary Capabilities: Can evolve over time, simulating dynamic systems.
+
 Holographic Encoding: Supports holographic-like data representation.
+
 Fourier Domain Operations: Enables frequency-domain analysis and manipulation.
+
 Dimensionality Reduction: Built-in methods for reducing high-dimensional data to lower dimensions.
 
 Unique Characteristics
