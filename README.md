@@ -2,7 +2,7 @@
 
 Base structure of MTensor
 
-# MTensor: Multi-Dimensional Quantum-Inspired Tensor with Fractal Properties
+# MTensor: Multi-Dimensional Quantum-Inspired Tensor with Fractal Properties and Evolutionary Capabilities 
 
 # Overview
 
