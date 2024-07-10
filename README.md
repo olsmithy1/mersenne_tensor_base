@@ -118,6 +118,25 @@ Modeling complex cognitive processes and brain functions.
 Representing and analyzing multi-modal sensory information.
 
 
+Getting Started
+
+from mtensor import MTensor
+
+# Create a new MTensor
+tensor = MTensor(shape=(2, 4, 4, 4, 4), seed=42)
+
+# Optimize the rank
+best_rank, _ = tensor.optimize_rank()
+
+# Perform quantum-inspired operation
+quantum_result = tensor.quantum_inspired_operation()
+
+# Evolve the tensor
+tensor.evolve_tensor(steps=5)
+
+# Visualize
+print(tensor.ascii_view())
+
 
 Technical Specifications
 
