@@ -120,6 +120,5 @@ Modeling complex cognitive processes and brain functions.
 Representing and analyzing multi-modal sensory information.
 
 # Inspiration
+Google recently purchased a company called Deep Mind here in the UK which came up with AlphaTensor, now AlphaTensor is an attempt to make things easier for mathematicians by finding unique matrix multiplication algorithims. This will aid and assist many mathematicians considerably, don't get me wrong. However I have to work on some of the hardest class of number theoretical research areas, including the largest class of prime numbers and unfortunaley whilst whats offered sounds good. It's not going to be nearly enough for my needs. Therefore MTensor was born and with it a full redesign of what I believe a tensor ought to look like in order to deal with these types of complex problem domains.
 
-Google recently purchased a company called DeepMind here in the UK which came up with AlphaTensor, now AlphaTensor is an attempt to make things easier for mathematicians by finding unique matrix multiplication algorithims. 
-This will aid and assist many mathematicians considerably don't get me wrong. However I have to work on some of the Hardest class of number theoretical research areas, including the largest class of prime numbers and unfortunaley whats offered is good. It's not going to be nearly enough for my needs. Therefore MTensor was born and with it a full redesign of what I think a tensor needs to look like to deal with these types of complex issues.
