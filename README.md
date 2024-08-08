@@ -1,8 +1,8 @@
-# mtensor_base
+# mersenne tensor
 
 Base structure of MTensor
 
-# MTensor: Multi-Dimensional Quantum-Inspired Tensor with Fractal Properties and Evolutionary Capabilities 
+# Mersenne Tensor: A Multi-Dimensional Quantum-Inspired Tensor with Evolutionary Capabilities 
 
 # Overview
 
@@ -12,7 +12,7 @@ In short MTensor is a 5 Dimensional, Fractal Tensor with Quantum Entanglement pr
 
 # Key Features:
 
-5-Dimensional Structure: Default shape of (2, 4, 4, 4, 4), allowing for rich, multi-layered data representation.
+5-Dimensional Structure: Default shape of (12, 8, 4, 8, 12), allowing for rich, multi-layered data representation.
 
 Complex Number Representation: Uses complex numbers for each element, enabling phase and magnitude information storage.
 
