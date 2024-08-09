@@ -61,14 +61,8 @@ Testing quantum-inspired algorithms for optimization problems.
 
 Complex Systems Modeling:
 
-Modeling intricate biological systems like protein folding or neural networks.
+Modeling intricate biological systems like protein folding.
 Simulating complex physical systems with many interacting parts.
-
-
-Advanced Machine Learning:
-
-Developing new types of neural network architectures.
-Creating more complex feature representations for deep learning.
 
 
 Cryptography and Security:
@@ -94,23 +88,15 @@ Matrix Multiplication:
 Capabale of finding lower dimensional Matrix Multiplication algorithms.
 It may even incorporate elements of these algorithms into it's own structure, for future use.
 
-Artificial Intelligence:
-
-Representing complex knowledge graphs or semantic networks.
-Developing more sophisticated reasoning systems.
-
-
 Drug Discovery:
 
 Modeling complex molecular interactions.
 Predicting drug efficacy and side effects based on multi-factorial analysis.
 
-
 Climate Modeling:
 
 Representing complex atmospheric and oceanic interactions.
 Modeling long-term climate patterns with multiple variables.
-
 
 Cognitive Science Research:
 
