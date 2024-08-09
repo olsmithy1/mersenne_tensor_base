@@ -1,4 +1,4 @@
-# Mersenne Tensor: A Multi-Dimensional Quantum-Inspired Tensor with Evolutionary Capabilities 
+# Mersenne Tensor: A Multi-Dimensional Quantum-Inspired Sparse Tensor with Evolutionary Capabilities 
 
 # Overview
 
