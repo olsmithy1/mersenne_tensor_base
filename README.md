@@ -4,7 +4,7 @@
 
 Mersenne Tensor is an advanced, multi-dimensional tensor designed for complex data representation and manipulation. 
 It combines concepts from quantum computing, fractal geometry, and advanced mathematics to create a versatile tool for various cutting-edge applications.
-In short MTensor is a 5 Dimensional, Fractal Tensor with Quantum Entanglement properties and is unlike anything in it's class before it.
+In short MTensor is a 5 Dimensional, Reflection Tensor with Quantum Entanglement properties and is unlike anything in it's class before it.
 
 # Key Features:
 
