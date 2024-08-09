@@ -44,7 +44,7 @@ Flexible Dimensionality: Can work across multiple dimensions, from 3D to 5D and 
 
 # Layman's Explanation of Uniqueness
 
-Imagine a super-advanced Rubik's Cube. Now, instead of just colors, each square on the cube contains a tiny universe of information. This cube can twist and turn in ways that a normal Rubik's Cube can't – it can even absorb information from other cubes or evolve over time. It's like if you combined a Rubik's Cube with a crystal ball, a supercomputer, and a little bit of magic. That's what makes MTensor unique!
+Imagine a super-advanced Rubik's Cube. Now, instead of just colors, each square on the cube contains a tiny universe of information. This cube can twist and turn in ways that a normal Rubik's Cube can't – it can even absorb information from other cubes or evolve over time. It's like if you combined a Rubik's Cube with a crystal ball, a supercomputer, and a little bit of magic. That's what makes Mersenne Tensor unique!
 
 It's a way to represent and manipulate incredibly complex information in a structure that can adapt, evolve, and perform operations inspired by some of the most advanced concepts in physics and mathematics.
 Whilst also simplyfiying the way in which we can reason about, what it is that the tensor is doing.
