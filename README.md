@@ -41,6 +41,8 @@ Complex Information Encoding: Uses both magnitude and phase for richer data repr
 
 Flexible Dimensionality: Can work across multiple dimensions, from 3D to 5D and potentially beyond.
 
+# Detailed Analysis
+https://github.com/olsmithy1/mersenne_tensor_base/blob/main/plots/analysis_collage_20240808_023323.png
 
 # Layman's Explanation of Uniqueness
 
